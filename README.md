@@ -1,6 +1,7 @@
-### Hi there [👋](https://github.com/images/mona-whisper.gif)
+### Hi there ✨
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3duc9j4j2pg26as2pmcvf9e4l&unique={true|1|on|yes})
+- 🔭 I’m currently working on Discord Bot
+- 🌱 I’m currently learning Java/JS
 <!--
 **86PP/86PP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
