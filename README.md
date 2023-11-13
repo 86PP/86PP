@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there [👋](https://github.com/images/mona-whisper.gif)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3duc9j4j2pg26as2pmcvf9e4l&unique={true|1|on|yes})
 <!--
