@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3duc9j4j2pg26as2pmcvf9e4l)
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3duc9j4j2pg26as2pmcvf9e4l&count={count})
 
 <!--
