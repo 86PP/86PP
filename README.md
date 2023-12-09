@@ -7,7 +7,7 @@
 
 ---
 
-### :writing_hand: Projects : 
+### 🙌 Projects : 
 - 🔭 Minecraft Name Checker
 <!--
 **86PP/86PP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
