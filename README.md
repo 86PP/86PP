@@ -1,6 +1,6 @@
 ### Hi there ✨
 
-- 🔭 I’m currently working on Discord Bot
+- 🔭 I’m currently working on Discord Bot          ![alt text](https://gifdb.com/images/thumbnail/gengar-umbrella-hex-maniac-pokemon-7e9wn88i0brave5k.webp)
 - 🌱 I’m currently learning Java/JS
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3duc9j4j2pg26as2pmcvf9e4l&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
