@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working on Discord Bot          ![alt text](https://gifdb.com/images/thumbnail/gengar-umbrella-hex-maniac-pokemon-7e9wn88i0brave5k.webp =250x250)
 - 🌱 I’m currently learning Java/JS
-
+<img src="https://ai.github.io/size-limit/logo.svg" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3duc9j4j2pg26as2pmcvf9e4l&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
