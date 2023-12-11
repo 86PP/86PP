@@ -1,6 +1,6 @@
 ### Hi there ✨
 <img src="https://gifdb.com/images/thumbnail/gengar-umbrella-hex-maniac-pokemon-7e9wn88i0brave5k.webp" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+     alt="Size Limit logo by Anton Lovchikov" width="175" height="175">
 - 🔭 I’m currently working on Discord Bot         
 - 🌱 I’m currently learning Java/JS
 
